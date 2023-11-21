@@ -1,8 +1,6 @@
 ### Hi there 👋, 
 Seww is here ....
 
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=587790188880387718" height="336" width="236" frameborder="0" scrolling="no" ></iframe>
-
 [![An image of @csewwandi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/csewwandi)](https://holopin.io/@csewwandi)
 
 
