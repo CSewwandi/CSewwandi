@@ -2,9 +2,9 @@
 
 
 
+<center>
 
-
-![My_Tumblr_page-removebg-preview (1)](https://github.com/CSewwandi/CSewwandi/assets/119393512/7b19b2ed-b2b8-4700-9480-553810c8df13)
+![My_Tumblr_page-removebg-preview (1)](https://github.com/CSewwandi/CSewwandi/assets/119393512/7b19b2ed-b2b8-4700-9480-553810c8df13)</center>
 <t>
 <t>
 <t>
