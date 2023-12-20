@@ -15,7 +15,7 @@
 
 
 <p align="center"> 
-### Hello, lovely human! 🌈✨
+🌟🌟💕 Hello, lovely human! 🌈✨
 
 I'm Sewwandi, a code fairy sprinkling pixel dust and turning caffeine into enchanting lines of code. <span style="color:pink;">🧚‍♀️✨</span> My keyboard is my wand, and my screen is a canvas where I create tiny digital wonders.
 
@@ -37,6 +37,7 @@ I'm Sewwandi, a code fairy sprinkling pixel dust and turning caffeine into encha
 - I have a sweet tooth for solving Rubik's Cubes—like a candy-filled puzzle party! <span style="color:pink;">🍬🎉</span>
 
 Thanks for fluttering by! Let's create some code magic together and make the tech world a cuter place! 🚀<span style="color:pink;">💖</span>
+
 ![Premium_Vector___Business_team__win__coworking__success__goal_achievement_cooperation_concept-removebg-preview](https://github.com/CSewwandi/CSewwandi/assets/119393512/da2d62de-9179-4da9-b41b-e1807f3d5577)
 
 </p>
