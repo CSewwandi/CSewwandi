@@ -8,8 +8,8 @@
 ![Dibujos_para_pintar__-removebg-preview](https://github.com/CSewwandi/CSewwandi/assets/119393512/7ed272d0-7a1e-4c2a-bb5e-b49641d38751)
 
 
+
+
+
 [![An image of @csewwandi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/csewwandi)](https://holopin.io/@csewwandi)
-
-
-
 
