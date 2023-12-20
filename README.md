@@ -5,7 +5,8 @@
 
 
 
-![GitHub Octodex](https://github.com/CSewwandi/CSewwandi/assets/119393512/6d6dc42c-148e-4c8b-95c8-f41e642851aa)
+![Cleo___Cuquin-removebg-preview](https://github.com/CSewwandi/CSewwandi/assets/119393512/8ce50b22-96f1-45c1-8e8b-4dd58835680c)
+
 
 
 [![An image of @csewwandi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/csewwandi)](https://holopin.io/@csewwandi)
