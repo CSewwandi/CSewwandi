@@ -5,7 +5,8 @@
 
 
 
-![Cleo___Cuquin-removebg-preview](https://github.com/CSewwandi/CSewwandi/assets/119393512/8ce50b22-96f1-45c1-8e8b-4dd58835680c)
+![Cl![My_Tumblr_page-removebg-preview (1)](https://github.com/CSewwandi/CSewwandi/assets/119393512/5453576e-ac4f-4f5e-9abc-ccfdec221c0c)
+eo___Cuquin-removebg-preview](https://github.com/CSewwandi/CSewwandi/assets/119393512/8ce50b22-96f1-45c1-8e8b-4dd58835680c)
 
 
 
