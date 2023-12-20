@@ -1,10 +1,4 @@
-
-
-
-
-<center>
-
-![Cleo___Cuquin-removebg-preview]![Dibujos_para_pintar__-removebg-preview](https://github.com/CSewwandi/CSewwandi/assets/119393512/66eaf752-e045-4cba-8fe8-09704c41289d)
+[Dibujos_para_pintar__-removebg-preview](https://github.com/CSewwandi/CSewwandi/assets/119393512/66eaf752-e045-4cba-8fe8-09704c41289d)
 ![Cleo___Cuquin-removebg-preview](https://github.com/CSewwandi/CSewwandi/assets/119393512/5a113874-1f55-450b-ab0f-3e373dc54af4)
 
 
