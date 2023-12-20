@@ -33,11 +33,11 @@ I'm Sewwandi, a passionate 👧Developer with a love for technology and creative
 - #### ⚡ Fun fact:
 I can solve a Rubik's Cube in under 9! When I'm not coding, you might find me twisting and turning colorful cubes to keep my mind sharp and have a bit of fun. 🧩✨
 
-Thanks for stopping by! Let's connect and collaborate on exciting projects. 🚀![Premium Vector _ Business team, win, coworking, success, goal achievement cooperation concept](https://github.com/CSewwandi/CSewwandi/assets/119393512/cf57748c-56cd-48ea-80df-7663540b9394)
+Thanks for stopping by! Let's connect and collaborate on exciting projects. 🚀![Premium_Vector___Girl_work_from_home_character-removebg-preview](https://github.com/CSewwandi/CSewwandi/assets/119393512/b70b0bd5-0b60-4e64-93b9-4f3ec1a20730)
+
 
 
 </p>
-
 
 
 
