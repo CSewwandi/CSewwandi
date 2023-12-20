@@ -1,8 +1,7 @@
 
+![Premium Vector _ Business team, win, coworking, success, goal achievement cooperation concept](https://github.com/CSewwandi/CSewwandi/assets/119393512/cf57748c-56cd-48ea-80df-7663540b9394)
 
 
-
-![Premium Vector _ Girl work from home character](https://github.com/CSewwandi/CSewwandi/assets/119393512/deee18dc-8b6c-488e-bdc3-e49da52dfc2c)
 
 
 
