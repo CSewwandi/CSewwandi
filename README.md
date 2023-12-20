@@ -1,5 +1,6 @@
 
-<p align="center"> Hi there! 👋
+<p align="c![Dibujos_para_pintar__-removebg-preview](https://github.com/CSewwandi/CSewwandi/assets/119393512/ce0a46e1-5154-4aaa-8129-fa1441d99670)
+enter"> Hi there! 👋
 
 I'm Sewwandi, a passionate 👧Developer with a love for technology and creative problem-solving. My journey involves web development, design, and continuous learning. I enjoy turning ideas into reality through code and creating delightful user experiences.
 
