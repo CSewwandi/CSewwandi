@@ -5,9 +5,8 @@
 
 
 
-![Cl![My_Tumblr_page-removebg-preview (1)](https://github.com/CSewwandi/CSewwandi/assets/119393512/5453576e-ac4f-4f5e-9abc-ccfdec221c0c)
-eo___Cuquin-removebg-preview](https://github.com/CSewwandi/CSewwandi/assets/119393512/8ce50b22-96f1-45c1-8e8b-4dd58835680c)
-![My_Tumblr_page-removebg-preview (1)](https://github.com/CSewwandi/CSewwandi/assets/119393512/97454087-6e4c-4a1b-8480-a1b504bc409d)
+![My_Tumblr_page-removebg-preview (1)](https://github.com/CSewwandi/CSewwandi/assets/119393512/7b19b2ed-b2b8-4700-9480-553810c8df13)
+
 
 
 
