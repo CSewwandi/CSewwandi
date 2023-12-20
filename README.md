@@ -1,9 +1,8 @@
 
 
-<p align="center">
-  <img src="https://github.com/CSewwandi/CSewwandi/raw/main/assets/119393512/1bedd074-47ad-4947-90c4-f14659d0c520.gif" alt="Premium Vector _ Girl work from home character">
-</p>
 
+
+![Premium Vector _ Girl work from home character](https://github.com/CSewwandi/CSewwandi/assets/119393512/deee18dc-8b6c-488e-bdc3-e49da52dfc2c)
 
 
 
