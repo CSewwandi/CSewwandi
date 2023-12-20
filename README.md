@@ -13,7 +13,9 @@ I'm [Your Name], a passionate [Your Profession/Field] with a love for technology
 
 #### 🌱 I'm currently learning:
 - [List the technologies or skills you are currently learning]
-
+<p align="center">
+  <img src="https://github.com/CSewwandi/CSewwandi/raw/main/assets/119393512/8914fa57-8bc1-4b4b-b58d-f93dd0ff7b4a.png" alt="Dibujos_para_pintar__-removebg-preview">
+</p>
 #### 💬 Ask me about:
 - Web development
 - UI/UX design
