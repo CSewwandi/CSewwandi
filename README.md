@@ -1,5 +1,6 @@
 
-![Dibujos_para_pintar__-removebg-preview](https://github.com/CSewwandi/CSewwandi/assets/119393512/0a14340b-c858-4739-97f3-55ae450778b0)
+
+![Premium Vector _ Girl work from home character](https://github.com/CSewwandi/CSewwandi/assets/119393512/1bedd074-47ad-4947-90c4-f14659d0c520)
 
 
 <p align="center">
