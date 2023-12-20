@@ -17,9 +17,7 @@
 
 
 
-<p align="center">
-  <img src="https://github.com/CSewwandi/CSewwandi/raw/main/assets/119393512/8914fa57-8bc1-4b4b-b58d-f93dd0ff7b4a.png" alt="Dibujos_para_pintar__-removebg-preview">
-</p>
+
 
 
 [![An image of @csewwandi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/csewwandi)](https://holopin.io/@csewwandi)
