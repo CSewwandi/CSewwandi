@@ -1,11 +1,5 @@
 
-![Dibujos_para_pintar__-removebg-preview](https://github.com/CSewwandi/CSewwandi/assets/119393512/b476e2f6-8048-4d8e-862c-871d9e91052d)
-
-
-
-
-
-<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D556F7&background=EB4CFF00&center=true&vCenter=true&random=false&width=435&lines=++++++++++++++++++++HI!!+%F0%9F%91%8B+Im+Sewwandi+Kariyapperuma+%F0%9F%91%A7;+%E2%9D%A4%EF%B8%8FLove+web+Developing+and+Designing+!!;++++++++++++++++++++%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Im+Learning+and+Exploring+Here+!!;++++++++++++++++++++%F0%9F%93%B1%F0%9F%8C%9FLets+connect+and+collaborate+On+!!" alt="Typing SVG" /></a></center>
+![Dibujos_para_pintar__-removebg-preview](https://github.com/CSewwandi/CSewwandi/assets/119393512/b476e2f6-8048-4d8e-862c-871d9e91052d)<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D556F7&background=EB4CFF00&center=true&vCenter=true&random=false&width=435&lines=++++++++++++++++++++HI!!+%F0%9F%91%8B+Im+Sewwandi+Kariyapperuma+%F0%9F%91%A7;+%E2%9D%A4%EF%B8%8FLove+web+Developing+and+Designing+!!;++++++++++++++++++++%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Im+Learning+and+Exploring+Here+!!;++++++++++++++++++++%F0%9F%93%B1%F0%9F%8C%9FLets+connect+and+collaborate+On+!!" alt="Typing SVG" /></a></center>
 
 
 
