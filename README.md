@@ -15,7 +15,7 @@
 
 
 <p align="center"> 
-### Hello, lovely human! 🌈✨
+🌟🌟💕Hello, lovely human! 🌈✨👧👦
 
 I'm Sewwandi, a code fairy sprinkling pixel dust and turning caffeine into enchanting lines of code. 🧚‍♀️✨ My keyboard is my wand, and my screen is a canvas where I create tiny digital wonders.
 
