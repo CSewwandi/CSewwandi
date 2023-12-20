@@ -14,26 +14,29 @@
 
 
 
-<p align="center"> Hi there! 👋
-I'm Sewwandi, a passionate 👧Developer with a love for technology and creative problem-solving. My journey involves web development, design, and continuous learning. I enjoy turning ideas into reality through code and creating delightful user experiences.
+<p align="center"> 
+### Hello, lovely human! 🌈✨
 
-#### 🔭 Currently working on:
-- Exploring new technologies and framework
-- - Building projects to enhance my skills
-#### 🌱 I'm currently learning:
-- App Developing
-  #### 💬 Ask me about:
-- Web development
-- UI/UX design
-#### 📫 How to reach me:
-- chathurthisewwandi@gmail.com
-#### 😄 Pronouns:
-- She/ Her
-#### ⚡ Fun fact:
-- #### ⚡ Fun fact:
-I can solve a Rubik's Cube in under 9! When I'm not coding, you might find me twisting and turning colorful cubes to keep my mind sharp and have a bit of fun. 🧩✨
+I'm Sewwandi, a code fairy sprinkling pixel dust and turning caffeine into enchanting lines of code. 🧚‍♀️✨ My keyboard is my wand, and my screen is a canvas where I create tiny digital wonders.
 
-Thanks for stopping by! Let's connect and collaborate on exciting projects. 🚀![Premium_Vector___Business_team__win__coworking__success__goal_achievement_cooperation_concept-removebg-preview](https://github.com/CSewwandi/CSewwandi/assets/119393512/da2d62de-9179-4da9-b41b-e1807f3d5577)
+#### 🌟 Magic Spells:
+- **Web Wizardry:** Crafting spells in JavaScript, HTML, and CSS.
+- **App Alchemy:** Currently brewing potions in the world of app development.
+
+#### 💬 Let's Chat About:
+- The charm of web development spells.
+- The secrets of delightful UX/UI fairy tales.
+
+#### 🎨 Palette of Joy:
+- My code is a rainbow, and each project is a cuddly unicorn. 🦄🌈
+
+#### 📬 Send Letters to:
+- Owl post or email: chathurthisewwandi@gmail.com 🦉✉️
+
+#### 🍭 Sweet Fact:
+- I have a sweet tooth for solving Rubik's Cubes—like a candy-filled puzzle party! 🍬🎉
+
+Thanks for fluttering by! Let's create some code magic together and make the tech world a cuter place! 🚀💖![Premium_Vector___Business_team__win__coworking__success__goal_achievement_cooperation_concept-removebg-preview](https://github.com/CSewwandi/CSewwandi/assets/119393512/da2d62de-9179-4da9-b41b-e1807f3d5577)
 
 </p>
 
