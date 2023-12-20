@@ -1,7 +1,8 @@
 
-![Premium Vector _ Business team, win, coworking, success, goal achievement cooperation concept](https://github.com/CSewwandi/CSewwandi/assets/119393512/cf57748c-56cd-48ea-80df-7663540b9394)
 
 
+
+![Premium Vector _ Girl work from home character](https://github.com/CSewwandi/CSewwandi/assets/119393512/cc739f64-b90c-4311-88d2-3e736ef8da10)
 
 
 
@@ -31,7 +32,8 @@ I'm Sewwandi, a passionate 👧Developer with a love for technology and creative
 - #### ⚡ Fun fact:
 I can solve a Rubik's Cube in under 9! When I'm not coding, you might find me twisting and turning colorful cubes to keep my mind sharp and have a bit of fun. 🧩✨
 
-Thanks for stopping by! Let's connect and collaborate on exciting projects. 🚀
+Thanks for stopping by! Let's connect and collaborate on exciting projects. 🚀![Premium Vector _ Business team, win, coworking, success, goal achievement cooperation concept](https://github.com/CSewwandi/CSewwandi/assets/119393512/cf57748c-56cd-48ea-80df-7663540b9394)
+
 
 </p>
 
