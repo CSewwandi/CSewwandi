@@ -3,7 +3,25 @@
 ![Dibujos_para_pintar__-removebg-preview](https://github.com/CSewwandi/CSewwandi/assets/119393512/0a14340b-c858-4739-97f3-55ae450778b0)
 
 <p align="center"> Hi there! 👋
+I'm Sewwandi, a passionate 👧Developer with a love for technology and creative problem-solving. My journey involves web development, design, and continuous learning. I enjoy turning ideas into reality through code and creating delightful user experiences.
 
+#### 🔭 Currently working on:
+- Exploring new technologies and framework
+- - Building projects to enhance my skills
+#### 🌱 I'm currently learning:
+- App Developing
+  #### 💬 Ask me about:
+- Web development
+- UI/UX design
+#### 📫 How to reach me:
+- chathurthisewwandi@gmail.com
+#### 😄 Pronouns:
+- She/ Her
+#### ⚡ Fun fact:
+- #### ⚡ Fun fact:
+I can solve a Rubik's Cube in under 9! When I'm not coding, you might find me twisting and turning colorful cubes to keep my mind sharp and have a bit of fun. 🧩✨
+
+Thanks for stopping by! Let's connect and collaborate on exciting projects. 🚀
 
 </p>
 
