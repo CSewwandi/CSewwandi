@@ -10,7 +10,7 @@
 </p>
 
 <p align="right">
-  <img src="https://github.com/CSewwandi/CSewwandi/blob/main/assets/119393512/7ed272d0-7a1e-4c2a-bb5e-b49641d38751.png" alt="Dibujos_para_pintar__-removebg-preview">
+  <img src="https://github.com/CSewwandi/CSewwandi/raw/main/assets/119393512/7ed272d0-7a1e-4c2a-bb5e-b49641d38751.png" alt="Dibujos_para_pintar__-removebg-preview">
 </p>
 
 
