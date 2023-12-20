@@ -1,6 +1,5 @@
 
-![Dibujos_para_pintar__-removebg-preview](https://github.com/CSewwandi/CSewwandi/assets/119393512/b476e2f6-8048-4d8e-862c-871d9e91052d)
-![Cleo___Cuquin-removebg-preview](https://github.com/CSewwandi/CSewwandi/assets/119393512/ae387a89-39c5-450b-8a41-bfa59ecf24cb)
+![Dibujos_para_pintar__-removebg-preview](https://github.com/CSewwandi/CSewwandi/assets/119393512/b476e2f6-8048-4d8e-862c-871d9e91052d)![Cleo___Cuquin-removebg-preview](https://github.com/CSewwandi/CSewwandi/assets/119393512/ae387a89-39c5-450b-8a41-bfa59ecf24cb)
 
 
 
