@@ -1,31 +1,29 @@
 
 <p align="center"> Hi there! 👋
 
-I'm [Your Name], a passionate [Your Profession/Field] with a love for technology and creative problem-solving. My journey involves web development, design, and continuous learning. I enjoy turning ideas into reality through code and creating delightful user experiences.
+I'm Sewwandi, a passionate 👧Developer with a love for technology and creative problem-solving. My journey involves web development, design, and continuous learning. I enjoy turning ideas into reality through code and creating delightful user experiences.
 
 #### 🔭 Currently working on:
 - Exploring new technologies and frameworks
 - Building projects to enhance my skills
-- [Optional: Mention any specific project you're currently focused on]
 
 #### 🌱 I'm currently learning:
-- [List the technologies or skills you are currently learning]
-
+- App Developing
+  
 #### 💬 Ask me about:
 - Web development
 - UI/UX design
-- [Any other topics you're knowledgeable about]
+
 
 #### 📫 How to reach me:
-- [Your Email]
-- [Your LinkedIn Profile]
-- [Your Personal Website or Portfolio]
+- chathurthisewwandi@gmail.com
 
 #### 😄 Pronouns:
-- [Your Pronouns]
+- She/ Her
 
 #### ⚡ Fun fact:
-- [Share an interesting or fun fact about yourself]
+- #### ⚡ Fun fact:
+I can solve a Rubik's Cube in under 9! When I'm not coding, you might find me twisting and turning colorful cubes to keep my mind sharp and have a bit of fun. 🧩✨
 
 Thanks for stopping by! Let's connect and collaborate on exciting projects. 🚀
 </p>
