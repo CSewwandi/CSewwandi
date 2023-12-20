@@ -1,3 +1,7 @@
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github.com/CSewwandi/CSewwandi/raw/main/assets/119393512/8914fa57-8bc1-4b4b-b58d-f93dd0ff7b4a.png" alt="Dibujos_para_pintar__-removebg-preview">
+  <p style="margin-left: 20px;">Description or text goes here.</p>
+</div>
 
 
 
