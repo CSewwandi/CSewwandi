@@ -12,6 +12,8 @@
 
 
 
+![Dibujos_para_pintar__-removebg-preview](https://github.com/CSewwandi/CSewwandi/assets/119393512/8914fa57-8bc1-4b4b-b58d-f93dd0ff7b4a)![Cleo___Cuquin-removebg-preview](https://github.com/CSewwandi/CSewwandi/assets/119393512/aec9321e-75c3-4249-b6a9-5a0a33e744ff)
+
 
 [![An image of @csewwandi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/csewwandi)](https://holopin.io/@csewwandi)
 
